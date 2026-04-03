@@ -11,7 +11,7 @@
 
 技术栈：
 Vue3、Element Plus、Pinia、Vite、TypeScript
-Axios（已封装好）
+Axios
 
 在VScode上：
 pnpm i 下载依赖
